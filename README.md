@@ -1,0 +1,1 @@
+Powered by RDK X5, this smart companion integrates LLM, vision, and iFlytek voice technology. Utilizing UWB positioning and 360° LiDAR, it offers safe, precise following. More than just a robot, it "sees" you and converses naturally like a real human, serving as your truly empathetic friend.
